@@ -14,6 +14,6 @@ Access2Innovate Foundation helps reduce barriers to quality Science, Technology,
 
 ## Links
 
-Website: [access2innovate.com](https://access2innovate.com/)  
-GitHub: [github.com/access2innovate](https://github.com/access2innovate)  
-Contact: [info@access2innovate.com](mailto:info@access2innovate.com)
+🌐 Website: [access2innovate.com](https://access2innovate.com/)  
+💻 GitHub: [github.com/access2innovate](https://github.com/access2innovate)  
+📧 Contact: [info@access2innovate.com](mailto:info@access2innovate.com)
