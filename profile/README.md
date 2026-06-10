@@ -2,7 +2,7 @@
 
 **Quality STEM/STEAM programs for children and youth.**
 
-Access2Innovate Foundation helps reduce barriers to quality Science, Technology, Engineering, Art, and Mathematics education for children, youth, and adults. Our programs are hands-on, inclusive, and built for learners from all backgrounds. :contentReference[oaicite:0]{index=0}
+Access2Innovate Foundation helps reduce barriers to quality Science, Technology, Engineering, Art, and Mathematics education for children, youth, and adults. Our programs are hands-on, inclusive, and built for learners from all backgrounds.
 
 ## What we do
 
@@ -10,7 +10,7 @@ Access2Innovate Foundation helps reduce barriers to quality Science, Technology,
 - Robotics, engineering, electronics, 3D design, and fabrication
 - AI programs for youth
 - Camps, field trips, birthday parties, and maker events
-- Youth hackathons focused on coding, AI, computer vision, robotics, and creative challenges :contentReference[oaicite:1]{index=1}
+- Youth hackathons focused on coding, AI, computer vision, robotics, and creative challenges
 
 ## Links
 
